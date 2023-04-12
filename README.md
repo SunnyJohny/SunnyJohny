@@ -1,8 +1,8 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://sunnydevzjohnny.netlify.app/)
 <h1 align="center">Hi 👋, I'm John Sunday</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=coding+gif+image&oq=coding+gif+image&aqs=chrome..69i57j0i512j0i22i30l4j0i390i650.7927j0j4&sourceid=chrome&ie=UTF-8#imgrc=dbrfb5dvHO4gVM">
+<img align="right" alt="Coding" width="400" src="https://www.pngitem.com/middle/hmboRmw_learn-website-development-gif-hd-png-download/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyjohny&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyjohny" /> </p>
 
