@@ -1,8 +1,10 @@
 
-[![MasterHead](https://photos.google.com/share/AF1QipPKJ__RFB3BJT0ywwaXQtrLR1yEbaKo0M5XakKjVqkHYhkBxTQvEJ39Zj2YlFhqsQ/photo/AF1QipNNWV-qMm_7AzQCaIDbxmqO4leAMEuXPoVUvpej?key=UXpCZUtwNW9uMDVOTVhVR1hlaVN0UUJUc1pmOG9B)](http://sunnydevzjohnny.netlify.app/)
+
+ [![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*xNeHZP7DZrMkVbC_lRShmQ.png)](http://sunnydevzjohnny.netlify.app/)
+
 <h1 align="center">Hi 👋, I'm John Sunday</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="1000" height="450"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyjohny&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyjohny" /> </p>
 
