@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://sunnydevzjohnny.netlify.app/)
+[![MasterHead](https://photos.google.com/share/AF1QipPKJ__RFB3BJT0ywwaXQtrLR1yEbaKo0M5XakKjVqkHYhkBxTQvEJ39Zj2YlFhqsQ/photo/AF1QipNNWV-qMm_7AzQCaIDbxmqO4leAMEuXPoVUvpej?key=UXpCZUtwNW9uMDVOTVhVR1hlaVN0UUJUc1pmOG9B)](http://sunnydevzjohnny.netlify.app/)
 <h1 align="center">Hi 👋, I'm John Sunday</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
