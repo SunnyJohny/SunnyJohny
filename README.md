@@ -14,7 +14,7 @@
 
 - 🌱 I am currently learning **flask**
 
-- 👨‍💻 All of my projects are available at [http://sunnydevzjohnny.netlify.app/](http://sunnydevzjohnny.netlify.app/)
+- 👨‍💻 Some of my projects are available at [http://sunnydevzjohnny.netlify.app/](http://sunnydevzjohnny.netlify.app/)
 
 - 💬 Ask me about **React js,Java,Java Script,Dart,Flutter,Node Js,Express,Docker, firebase,My sql,sqlite, material design etc.**
 
