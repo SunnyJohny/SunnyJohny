@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [http://sunnydevzjohnny.netlify.app/](http://sunnydevzjohnny.netlify.app/)
 
-- 💬 Ask me about **React js and Firestore.**
+- 💬 Ask me about **React js,Java,Java Script,Dart,Flutter,Node Js,Express,Docker, firebase,My sql,sqlite, material design etc.**
 
 - 📫 How to reach me **johnsunday803@gmail.com**
 
