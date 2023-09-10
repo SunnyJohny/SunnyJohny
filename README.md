@@ -3,7 +3,7 @@
  [![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*xNeHZP7DZrMkVbC_lRShmQ.png)](http://sunnydevzjohnny.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm John Sunday</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate full stack developer from Nigeria</h3>
 <img align="center" alt="Coding" width="1000" height="450"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyjohny&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyjohny" /> </p>
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Inventory and POS App**
 
-- 🌱 I’m currently learning **React Native,Node Js and Express**
+- 🌱 I am currently learning **flask**
 
 - 👨‍💻 All of my projects are available at [http://sunnydevzjohnny.netlify.app/](http://sunnydevzjohnny.netlify.app/)
 
